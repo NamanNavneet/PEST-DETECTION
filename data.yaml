@@ -1,0 +1,5 @@
+train: ../TRAIN/IMAGES
+val: ../TEST/IMAGES
+
+nc: 2
+names: ['YELLOW RICE BORER', 'RICE GALL MIDGE']
